@@ -1,8 +1,8 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: KrewPluginTemplate -->
 <!-- Parent: Project -->
-<!-- Title: Releasing -->
+<!-- Title: Project Releasing -->
 
-<!-- Label: BaseTemplate -->
+<!-- Label: KrewPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Releasing -->
 <!-- Include: docs/disclaimer.md -->
@@ -12,7 +12,7 @@
 
 ## Bump a new version
 
-Make a new version of base-template in the following steps:
+Make a new version of krew-plugin-template in the following steps:
 
 ### Generate version major
 

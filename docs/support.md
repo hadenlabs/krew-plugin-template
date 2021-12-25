@@ -1,6 +1,6 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: KrewPluginTemplate -->
 <!-- Parent: Project -->
-<!-- Title: Support -->
+<!-- Title: Project Support -->
 
 <!-- Label: Support and Contact -->
 <!-- Include: docs/disclaimer.md -->

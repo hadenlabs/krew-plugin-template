@@ -1,8 +1,8 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: KrewPluginTemplate -->
 <!-- Parent: Project -->
 <!-- Title: Env Vars -->
 
-<!-- Label: BaseTemplate -->
+<!-- Label: KrewPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Env Vars -->
 <!-- Include: docs/disclaimer.md -->
