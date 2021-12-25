@@ -1,4 +1,4 @@
- <!-- Space: BaseTemplate -->
+ <!-- Space: KrewPluginTemplate -->
 <!-- Title: Project -->
 
 <!--
@@ -15,21 +15,15 @@
 
   -->
 
-[![Latest Release](https://img.shields.io/github/release/hadenlabs/base-template)](https://github.com/hadenlabs/base-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code)](https://github.com/hadenlabs/base-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org)
+[![Latest Release](https://img.shields.io/github/release/hadenlabs/krew-plugin-template)](https://github.com/hadenlabs/krew-plugin-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/krew-plugin-template/lint-code)](https://github.com/hadenlabs/krew-plugin-template/actions?workflow=lint-code) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org)
 
-# base-template
+# krew-plugin-template
 
-base-template for project
-
-### Replace name project to New Project
-
-```bash
-  agr 'base-template' 'new-project'
-```
+krew-plugin-template for project
 
 ## Requirements
 
-This is a list of plugins that need to be installed previously to enjoy all the goodies of this configuration:
+This is a list of applications that need to be installed previously to enjoy all the goodies of this configuration:
 
 - [gomplate](https://github.com/hairyhenderson/gomplate)
 - [python](https://www.python.org)
@@ -39,7 +33,7 @@ This is a list of plugins that need to be installed previously to enjoy all the 
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/hadenlabs/base-template/issues).
+File a GitHub [issue](https://github.com/hadenlabs/krew-plugin-template/issues).
 
 ## Contributing
 
@@ -72,6 +66,6 @@ All other trademarks referenced herein are the property of their respective owne
 
 The code and styles are licensed under the LGPL-3.0 license [See project license.](LICENSE).
 
-## Don't forget to 🌟 Star 🌟 the repo if you like base-template
+## Don't forget to 🌟 Star 🌟 the repo if you like krew-plugin-template
 
-[Your feedback is appreciated](https://github.com/hadenlabs/base-template/issues)
+[Your feedback is appreciated](https://github.com/hadenlabs/krew-plugin-template/issues)
