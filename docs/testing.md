@@ -1,6 +1,6 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: KrewPluginTemplate -->
 <!-- Parent: Project -->
-<!-- Title: Testing -->
+<!-- Title: Project Testing -->
 
 <!-- Label: Testing -->
 <!-- Include: docs/disclaimer.md -->

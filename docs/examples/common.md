@@ -1,4 +1,4 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: KrewPluginTemplate -->
 <!-- Parent: Project -->
 <!-- Title: Project Examples -->
 

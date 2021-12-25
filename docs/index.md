@@ -1,1 +1,1 @@
-# Welcome to base-template documentation
+# Welcome to krew-plugin-template documentation

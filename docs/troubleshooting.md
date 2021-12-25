@@ -1,8 +1,8 @@
-<!-- Space: BaseTemplate -->
+<!-- Space: KrewPluginTemplate -->
 <!-- Parent: Project -->
-<!-- Title: Troubleshooting -->
+<!-- Title: Project Troubleshooting -->
 
-<!-- Label: BaseTemplate -->
+<!-- Label: KrewPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Troubleshooting -->
 <!-- Include: docs/disclaimer.md -->
